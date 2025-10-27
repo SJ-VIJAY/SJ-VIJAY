@@ -22,24 +22,34 @@
 
 ## 🧠 Languages I Know 
 <div>
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Java 8](https://img.shields.io/badge/Java%208-%23E76F00?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+---
+
+## 🧠 Languages I Know
+
+<p align="left">
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java" title="Java"/>
+  <img src="https://img.icons8.com/office/48/spring-logo.png" alt="Spring" title="Spring"/>
+  <img src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring Boot" title="Spring Boot"/>
+  <img src="https://img.icons8.com/ios-filled/50/mysql-logo.png" alt="MySQL" title="MySQL"/>
+  <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML5" title="HTML5"/>
+  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" title="CSS3"/>
+</p>
+
+---
 </div>
 ---
 
 ## ⚙️ Tools I Use
 <div>
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<p align="left">
+  <img src="https://img.icons8.com/color/48/git.png" alt="Git" title="Git"/>
+  <img src="https://img.icons8.com/ios-filled/50/github.png" alt="GitHub" title="GitHub"/>
+  <img src="https://img.icons8.com/color/48/eclipse.png" alt="Eclipse IDE" title="Eclipse IDE"/>
+  <img src="https://img.icons8.com/color/48/intellij-idea.png" alt="IntelliJ IDEA" title="IntelliJ IDEA"/>
+  <img src="https://img.icons8.com/ios-filled/50/mysql-logo.png" alt="MySQL Workbench" title="MySQL Workbench"/>
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" title="VS Code"/>
+</p>
+
 </div>
 ---
 
