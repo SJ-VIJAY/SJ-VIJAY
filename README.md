@@ -25,7 +25,7 @@
 
 <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java" title="Java"/>
 <img src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring" title="Spring"/>
-<img src="https://img.icons8.com/color/48/spring-boot.png" alt="Spring Boot" title="Spring Boot"/>
+<img src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring Boot" title="Spring Boot"/>
 <img src="https://img.icons8.com/ios-filled/50/mysql-logo.png" alt="MySQL" title="MySQL"/>
 <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML5" title="HTML5"/>
 <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" title="CSS3"/>
@@ -39,7 +39,7 @@
 
 <img src="https://img.icons8.com/color/48/git.png" alt="Git" title="Git"/>
 <img src="https://img.icons8.com/ios-glyphs/48/github.png" alt="GitHub" title="GitHub"/>
-<img src="https://img.icons8.com/color/48/eclipse-ide.png" alt="Eclipse IDE" title="Eclipse IDE"/>
+<img src="https://img.icons8.com/color/48/eclipse.png" alt="Eclipse IDE" title="Eclipse IDE"/>
 <img src="https://img.icons8.com/color/48/intellij-idea.png" alt="IntelliJ IDEA" title="IntelliJ IDEA"/>
 <img src="https://img.icons8.com/ios-filled/50/mysql-logo.png" alt="MySQL Workbench" title="MySQL Workbench"/>
 <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" title="VS Code"/>
