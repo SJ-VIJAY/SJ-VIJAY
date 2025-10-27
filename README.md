@@ -22,7 +22,6 @@
 
 ## 🧠 Languages I Know 
 <div>
----
 <p align="center">
   <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java" title="Java"/>
   <img src="https://img.icons8.com/office/48/spring-logo.png" alt="Spring" title="Spring"/>
@@ -34,6 +33,7 @@
 </div>
 ---
 
+---
 ## ⚙️ Tools I Use
 <div>
 <p align="center">
