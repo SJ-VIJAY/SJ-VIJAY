@@ -23,10 +23,7 @@
 ## 🧠 Languages I Know 
 <div>
 ---
-
-## 🧠 Languages I Know
-
-<p align="left">
+<p align="center">
   <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java" title="Java"/>
   <img src="https://img.icons8.com/office/48/spring-logo.png" alt="Spring" title="Spring"/>
   <img src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring Boot" title="Spring Boot"/>
@@ -34,14 +31,12 @@
   <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML5" title="HTML5"/>
   <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" title="CSS3"/>
 </p>
-
----
 </div>
 ---
 
 ## ⚙️ Tools I Use
 <div>
-<p align="left">
+<p align="center">
   <img src="https://img.icons8.com/color/48/git.png" alt="Git" title="Git"/>
   <img src="https://img.icons8.com/ios-filled/50/github.png" alt="GitHub" title="GitHub"/>
   <img src="https://img.icons8.com/color/48/eclipse.png" alt="Eclipse IDE" title="Eclipse IDE"/>
