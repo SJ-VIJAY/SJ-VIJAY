@@ -25,7 +25,7 @@
 
 <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java" title="Java"/>
 <img src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring" title="Spring"/>
-<img src="https://img.icons8.com/offices/30/spring-logo.png" alt="spring-logo" title="Spring Boot"/>
+<img src="https://img.icons8.com/offices/48/spring-logo.png" alt="spring-logo" title="Spring Boot"/>
 <img src="https://img.icons8.com/ios-filled/50/mysql-logo.png" alt="MySQL" title="MySQL"/>
 <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML5" title="HTML5"/>
 <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" title="CSS3"/>
